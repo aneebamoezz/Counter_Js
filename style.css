@@ -1,0 +1,23 @@
+body{
+    margin: 100px;
+    padding: 100px;
+    text-align: center;
+    background-color: #eee;
+}
+
+.container{
+    font-size: 30px;
+}
+
+span #value{
+    font-size: 30px;
+}
+
+.button-container .btn{
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+
+
